@@ -87,22 +87,23 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>DATA ENGINEERING</h3>
+              <h4>Scalable Cloud Pipelines</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Architecting robust ETL/ELT data pipelines using Azure Data Factory,
+                Databricks, and Synapse Analytics. From ingestion to transformation,
+                I manage high-volume datasets efficiently.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Azure Databricks</div>
+                <div className="what-tags">Azure Data Factory</div>
+                <div className="what-tags">PySpark</div>
+                <div className="what-tags">Python</div>
+                <div className="what-tags">Synapse Analytics</div>
+                <div className="what-tags">Kafka</div>
+                <div className="what-tags">Airflow</div>
+                <div className="what-tags">SQL Server</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +127,23 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>ANALYTICS & INTRASTRUCTURE</h3>
+              <h4>Containerization & Cloud Native</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Deploying secure cloud architecture using Terraform and leading
+                containerization strategies with Kubernetes and Docker for
+                real-time analytics and predictive modeling.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">Terraform</div>
+                <div className="what-tags">Kubernetes (K8s)</div>
+                <div className="what-tags">Docker</div>
+                <div className="what-tags">Power BI</div>
+                <div className="what-tags">Azure DevOps</div>
+                <div className="what-tags">GitHub Actions</div>
+                <div className="what-tags">Event Hub</div>
+                <div className="what-tags">Data Lake Gen2</div>
               </div>
               <div className="what-arrow"></div>
             </div>

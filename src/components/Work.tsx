@@ -5,33 +5,33 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
+    title: "Shadow Deployment on GCP",
+    category: "Container Orchestration",
+    tools: "GKE, Istio, Docker, Kubernetes",
     image: "/images/Solidx.png",
   },
   {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
+    title: "IoT Data Integration",
+    category: "Real-Time Analytics",
+    tools: "Azure IoT Hub, Event Hub, Databricks, Power BI",
     image: "/images/radix.png",
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
+    title: "End-to-End Azure Pipeline",
+    category: "Data Engineering",
+    tools: "Data Factory, Databricks, Synapse Analytics",
     image: "/images/bond.png",
   },
   {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
+    title: "Energy Forecasting Model",
+    category: "Unified Data Platform",
+    tools: "Data Factory, Databricks, Data Lake Gen2",
     image: "/images/sapphire.png",
   },
   {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
+    title: "Dynamic Pricing Prototype",
+    category: "Algorithmic Pricing Strategy",
+    tools: "Python, NumPy, Matplotlib",
     image: "/images/Maxlife.png",
   },
 ];
